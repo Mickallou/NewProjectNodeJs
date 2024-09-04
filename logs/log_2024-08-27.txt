@@ -1,0 +1,92 @@
+Date: 2024-08-27 21:42:04
+Method: GET
+Status code: 500
+URL: /cards/66ce10d76813472c08e4d90
+
+Date: 2024-08-27 21:42:14
+Method: GET
+Status code: 500
+URL: /cards/66ce10d76813472c08e4d90
+
+Date: 2024-08-27 21:42:16
+Method: GET
+Status code: 500
+URL: /cards/66ce10d76813472c08e4d90
+
+Date: 2024-08-27 21:42:29
+Method: POST
+Status code: 403
+URL: /users/login
+
+Date: 2024-08-27 21:45:28
+Method: POST
+Status code: 403
+URL: /users/login
+Error: Forbidden
+
+Date: 2024-08-27 21:45:43
+Method: GET
+Status code: 500
+URL: /cards/66ce10d76813472c08e4d90
+Error: Internal Server Error
+
+Date: 2024-08-27 21:45:49
+Method: GET
+Status code: 404
+URL: /cards/66ce10d76813472c08e4d902
+Error: Not Found
+
+Date: 2024-08-27 21:45:56
+Method: GET
+Status code: 500
+URL: /cards/66ce10d76813472c08e4d902f
+Error: Internal Server Error
+
+Date: 2024-08-27 21:51:53
+Method: GET
+Status code: 404
+URL: /favicon.ico
+Error: Not Found
+
+Date: 2024-08-27 21:52:16
+Method: GET
+Status code: 404
+URL: /dd
+Error: Not Found
+
+Date: 2024-08-27 21:56:13
+Method: GET
+Status code: 404
+URL: /de
+Error: Not Found
+
+Date: 2024-08-27 22:01:01
+Method: GET
+Status code: 500
+URL: /de
+Error: Internal Server Error
+
+Date: 2024-08-27 22:03:50
+Method: GET
+Status code: 404
+URL: /ddd
+Error: Not Found
+
+Date: 2024-08-27 22:19:32
+Method: POST
+Status code: 403
+URL: /users/login
+Error: Forbidden
+
+Date: 2024-08-27 22:19:55
+Method: POST
+Status code: 403
+URL: /users/login
+Error: Forbidden
+
+Date: 2024-08-27 22:20:02
+Method: POST
+Status code: 403
+URL: /users/login
+Error: Forbidden
+

@@ -1,0 +1,90 @@
+Date: 2024-09-04 18:54:01
+Method: POST
+Status code: 403
+URL: /users/login
+Error: Forbidden
+
+Date: 2024-09-04 18:56:14
+Method: POST
+Status code: 403
+URL: /users
+Error: Forbidden
+
+Date: 2024-09-04 18:56:23
+Method: POST
+Status code: 403
+URL: /users
+Error: Forbidden
+
+Date: 2024-09-04 19:02:36
+Method: GET
+Status code: 500
+URL: /users
+Error: Internal Server Error
+
+Date: 2024-09-04 19:04:45
+Method: GET
+Status code: 403
+URL: /users
+Error: Forbidden
+
+Date: 2024-09-04 19:05:19
+Method: GET
+Status code: 500
+URL: /use
+Error: Internal Server Error
+
+Date: 2024-09-04 19:05:26
+Method: GET
+Status code: 403
+URL: /users
+Error: Forbidden
+
+Date: 2024-09-04 19:07:24
+Method: GET
+Status code: 403
+URL: /users
+Error: Forbidden
+
+Date: 2024-09-04 19:35:34
+Method: GET
+Status code: 404
+URL: /users/66d883022ae9a0f508dd99
+Error: Not Found
+
+Date: 2024-09-04 19:38:20
+Method: PUT
+Status code: 401
+URL: /users/66cb99215a9b6ae4ebad4e87
+Error: Unauthorized
+
+Date: 2024-09-04 19:38:37
+Method: PUT
+Status code: 401
+URL: /users/66d87dde1d1364a6e6fc43b4
+Error: Unauthorized
+
+Date: 2024-09-04 19:39:14
+Method: PUT
+Status code: 403
+URL: /users/66d87dde1d1364a6e6fc43b4
+Error: Forbidden
+
+Date: 2024-09-04 19:39:34
+Method: PUT
+Status code: 403
+URL: /users/66d87dde1d1364a6e6fc43b4
+Error: Forbidden
+
+Date: 2024-09-04 19:41:07
+Method: GET
+Status code: 404
+URL: /cards/66ce0fc82253064b213af743
+Error: Not Found
+
+Date: 2024-09-04 19:42:10
+Method: PATCH
+Status code: 404
+URL: /cards/66ce10d76813472c08e4d902
+Error: Not Found
+
